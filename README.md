@@ -1,2 +1,3 @@
 # Wikipedia-Machine
-Wikipedia Search Tool
+Wikipedia Search Tool<br>
+API used : wikipedia Api https://en.wikipedia.org/w/api.php?action=opensearch&search=...
